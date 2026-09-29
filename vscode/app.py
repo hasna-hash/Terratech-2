@@ -1,6 +1,6 @@
 import pandas as pd
 import joblib
-bundle = joblib.load("model/decision_tree.joblib")
+bundle = joblib.load("decision_tree.joblib")
 #  =====================================================================
 # 1. Load model yang sudah dibuat di STEP 1
 # =====================================================================
